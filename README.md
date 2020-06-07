@@ -13,6 +13,10 @@ __Contact :__
 All projects will be presented in Jupiter notebook format.
 
 [Building fast search queries on a .csv file](https://github.com/NielsKlaver/public_projects/blob/master/Building%20Fast%20Queries%20on%20Inventory%20CSV/Building%20Fast%20Queries%20on%20a%20CSV.ipynb ) In this project I build a custom inventory class for Inventory lookup and implemented binary search and reduced time complexity
+Skills: Object Oriented Programming, Algorithms
+
+[Search for profitable app profiles](https://github.com/NielsKlaver/public_projects/blob/master/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets/app_store.ipynb)  In this project we analyze Google Playstore and the Apple iOS stor for profitable app profiles.
+Skills: Data cleaning, Data Analyzing
 
 
 
