@@ -27,11 +27,16 @@ __Visualization and storytelling__
 
 __Machine learning__
 * Machine Learning Fundamentals Course
+  * Cross Validation, Hyperparameter Optimization
+  * Model: K-Nearest Neighbors
 * Machine Learning in Python: Intermediate Course
+  * Overfitting, Clustering, Multiclass classification
+  * Models: Logistic Regression, K-Means
 * Linear Regression For Machine Learning Course
 * Deep Learning Fundamentals Course
 * Natural Language Processing Course
 * Decision Trees Course
+* Naive Bayes Course
 * Machine Learning Project 
 * Kaggle Fundamentals Course
 
