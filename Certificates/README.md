@@ -1,5 +1,6 @@
-This is an overview of the topics covered in the Data Scientist and Data Analyst path on DataQuest which i completed. Currently working on completing the Data Engineering path
+# DataQuest topics covered and courses completed
 
+Because of the giant scope of the DataQuest curriculum i decided to add this overview. I completed the Data Analyst and Data Scientist path on DataQuest. Currently I\`m working on the Data Engineer path .
 
 __Python Fundamentals__
 * Python for Data Science: Fundamentals Course
