@@ -7,7 +7,7 @@ I completed several courses on different platforms which can be found in this fo
 
 This portfolio will be updated on a regular basis. 
 
-
+__Contact :__
 * Linkedin: https://www.linkedin.com/in/niels-klaver-frm-06814221/
 
 
