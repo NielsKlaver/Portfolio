@@ -8,3 +8,9 @@ __Contact :__
 * Linkedin: https://www.linkedin.com/in/niels-klaver-frm-06814221/
 
 
+## Projects
+
+All projects will be presented in Jupiter notebook format.
+
+
+
