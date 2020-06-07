@@ -12,5 +12,7 @@ __Contact :__
 
 All projects will be presented in Jupiter notebook format.
 
+[Building fast search queries on a .csv file](https://github.com/NielsKlaver/public_projects/blob/master/Building%20Fast%20Queries%20on%20Inventory%20CSV/Building%20Fast%20Queries%20on%20a%20CSV.ipynb ) In this project I build a custom inventory class for In ventory lookup and implemented binary search and reduced time complexity
+
 
 
