@@ -18,6 +18,8 @@ Skills: Object Oriented Programming, Algorithms
 [Search for profitable app profiles](https://github.com/NielsKlaver/public_projects/blob/master/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets/app_store.ipynb)  In this project we analyze Google Playstore and the Apple iOS stor for profitable app profiles.
 Skills: Data cleaning, Data Analyzing
 
+[Analyzing CIA Factbook Data](https://github.com/NielsKlaver/public_projects/blob/master/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL/%20Analyzing%20CIA%20Factbook%20Data%20Using%20Python%20%2B%20SQL.ipynb) In this project we connect to a SQL database and run SQL Queries to analyze the data.
+Skills: SQL, Data Analyzing
 
 
 
