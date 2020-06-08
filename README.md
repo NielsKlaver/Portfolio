@@ -19,5 +19,8 @@ Skills: Object Oriented Programming, Algorithms
 
 [Analyzing CIA Factbook Data](https://github.com/NielsKlaver/public_projects/blob/master/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL/%20Analyzing%20CIA%20Factbook%20Data%20Using%20Python%20%2B%20SQL.ipynb) In this project we connect to a SQL database and run SQL Queries to analyze the data.<br>Skills: SQL, Data Analysis
 
+[Music Store Business Questions](https://github.com/NielsKlaver/public_projects/blob/master/Answering%20Music%20Store%20%20Business%20Questions%20using%20SQL/Answering%20Business%20Questions%20with%20SQL.ipynb0 In this project we try to find new opportunities for our online music store. We use advances SQL joins and filters to answer these.<br>
+Skills: SQL, Data Analysis
+
 
 
