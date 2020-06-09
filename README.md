@@ -15,7 +15,7 @@ All projects will be presented in Jupiter notebook format.
 
 ### Machine Learning
 
-[__Building a SMS Spamfilter Naive Bayes__]()In this project we build a spam filter for SMS messages.We construct a dictionary to calculate probabilities and use Naive Bayes for classification <br>__Skills: Classification, Naive Bayes, Pandas__
+[__Building a SMS Spamfilter Naive Bayes__]()In this project we build a spam filter for SMS messages.We construct a dictionary to calculate probabilities and use Naive Bayes for classification <br>__Skills: Classification, Naive Bayes, Pandas , Regular Expressions__
 
 ### Data Cleaning
 
