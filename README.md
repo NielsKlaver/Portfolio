@@ -12,17 +12,17 @@ __Contact :__
 
 All projects will be presented in Jupiter notebook format.
 
-[Building fast search queries on a .csv file](https://github.com/NielsKlaver/public_projects/blob/master/Building%20Fast%20Queries%20on%20Inventory%20CSV/Building%20Fast%20Queries%20on%20a%20CSV.ipynb ) In this project I build a custom inventory class for Inventory lookup and implemented binary search and reduced time complexity.<br>
-Skills: Object Oriented Programming, Algorithms
+[__Clean and analyze exit surveys__](https://github.com/NielsKlaver/public_projects/blob/master/Clean%20And%20Analyze%20Employee%20Exit%20Surveys/Exit%20survey%20analysis.ipynb) In this project we clean and analyze 2 exit surveys on why employees resigned. The datasets contain a lot of inconsistencies that need our attention before we can combine and compare.<br> __Skills: Pandas, Regular Expressions, Data Cleaning, Data Analysis and Visualization__
 
-[Search for profitable app profiles](https://github.com/NielsKlaver/public_projects/blob/master/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets/app_store.ipynb)  In this project we analyze Google Playstore and the Apple iOS stor for profitable app profiles.<br>Skills: Data cleaning, Data Analysis
+[__Building fast search queries on a .csv file__](https://github.com/NielsKlaver/public_projects/blob/master/Building%20Fast%20Queries%20on%20Inventory%20CSV/Building%20Fast%20Queries%20on%20a%20CSV.ipynb ) In this project I build a custom inventory class for Inventory lookup and implemented binary search and reduced time complexity.<br>
+__Skills: Object Oriented Programming, Algorithms__
 
-[Analyzing CIA Factbook Data](https://github.com/NielsKlaver/public_projects/blob/master/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL/%20Analyzing%20CIA%20Factbook%20Data%20Using%20Python%20%2B%20SQL.ipynb) In this project we connect to a SQL database and run SQL Queries to analyze the data.<br>Skills: SQL, Data Analysis
+[__Music Store Business Questions__](https://github.com/NielsKlaver/public_projects/blob/master/Answering%20Music%20Store%20%20Business%20Questions%20using%20SQL/Answering%20Business%20Questions%20with%20SQL.ipynb) In this project we try to find new opportunities for our online music store. We use advances SQL joins and filters to answer these.<br>
+__Skills: SQL, Data Analysis__
 
-[Music Store Business Questions](https://github.com/NielsKlaver/public_projects/blob/master/Answering%20Music%20Store%20%20Business%20Questions%20using%20SQL/Answering%20Business%20Questions%20with%20SQL.ipynb) In this project we try to find new opportunities for our online music store. We use advances SQL joins and filters to answer these.<br>
-Skills: SQL, Data Analysis
+[__Analyzing CIA Factbook Data__](https://github.com/NielsKlaver/public_projects/blob/master/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL/%20Analyzing%20CIA%20Factbook%20Data%20Using%20Python%20%2B%20SQL.ipynb) In this project we connect to a SQL database and run SQL Queries to analyze the data.<br>Skills: __SQL, Data Analysis__
 
-[Clean and analyze exit surveys](https://github.com/NielsKlaver/public_projects/blob/master/Clean%20And%20Analyze%20Employee%20Exit%20Surveys/Exit%20survey%20analysis.ipynb) In this project we clean and analyze 2 exit surveys on why employees resigned. The datasets contain a lot of inconsistencies that need our attention before we can combine and compare.<br> Skills: Pandas, Regular Expressions, Data Cleaning, Data Analysis and Visualization
+[__Search for profitable app profiles__](https://github.com/NielsKlaver/public_projects/blob/master/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets/app_store.ipynb)  In this project we analyze Google Playstore and the Apple iOS stor for profitable app profiles.<br>__Skills: Data cleaning, Data Analysis__
 
 
 
