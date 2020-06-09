@@ -22,5 +22,9 @@ Skills: Object Oriented Programming, Algorithms
 [Music Store Business Questions](https://github.com/NielsKlaver/public_projects/blob/master/Answering%20Music%20Store%20%20Business%20Questions%20using%20SQL/Answering%20Business%20Questions%20with%20SQL.ipynb) In this project we try to find new opportunities for our online music store. We use advances SQL joins and filters to answer these.<br>
 Skills: SQL, Data Analysis
 
+[Clean and analyze exit surveys](https://github.com/NielsKlaver/public_projects/blob/master/Clean%20And%20Analyze%20Employee%20Exit%20Surveys/Exit%20survey%20analysis.ipynb) In this project we clean and analyze 2 exit surveys on why employees resigned. The datasets contain a lot of inconsistencies that need our attention before we can combine and compare.<br> Skills: Pandas, Regular Expressions, Data Cleaning, Data Analysis and Visualization
+
+
+
 
 
