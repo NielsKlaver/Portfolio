@@ -20,7 +20,7 @@ __Skills: Object Oriented Programming, Algorithms__
 [__Music Store Business Questions__](https://github.com/NielsKlaver/public_projects/blob/master/Answering%20Music%20Store%20%20Business%20Questions%20using%20SQL/Answering%20Business%20Questions%20with%20SQL.ipynb) In this project we try to find new opportunities for our online music store. We use advances SQL joins and filters to answer these.<br>
 __Skills: SQL, Data Analysis__
 
-[__Analyzing CIA Factbook Data__](https://github.com/NielsKlaver/public_projects/blob/master/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL/%20Analyzing%20CIA%20Factbook%20Data%20Using%20Python%20%2B%20SQL.ipynb) In this project we connect to a SQL database and run SQL Queries to analyze the data.<br>Skills: __SQL, Data Analysis__
+[__Analyzing CIA Factbook Data__](https://github.com/NielsKlaver/public_projects/blob/master/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL/%20Analyzing%20CIA%20Factbook%20Data%20Using%20Python%20%2B%20SQL.ipynb) In this project we connect to a SQL database and run SQL Queries to analyze the data.<br>__Skills: SQL, Data Analysis__
 
 [__Search for profitable app profiles__](https://github.com/NielsKlaver/public_projects/blob/master/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets/app_store.ipynb)  In this project we analyze Google Playstore and the Apple iOS stor for profitable app profiles.<br>__Skills: Data cleaning, Data Analysis__
 
