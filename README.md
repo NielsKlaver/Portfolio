@@ -17,8 +17,8 @@ All projects will be presented in Jupiter notebook format.
 
 [__Building a SMS Spamfilter Naive Bayes__](https://nbviewer.jupyter.org/github/NielsKlaver/Portfolio_projects_credentials/blob/master/Projects/Building%20a%20SMS%20Spam%20Filter%20Naive%20Bayes/Building%20a%20SMS%20Spam%20Filter%20Naive%20Bayes.ipynb) In this project we build a spam filter for SMS messages.We construct a dictionary to calculate probabilities and use Naive Bayes for classification <br>__Skills: Classification, Naive Bayes, Pandas , Regular Expressions__
 
-[__Predicting Car Prices__](https://nbviewer.jupyter.org/github/NielsKlaver/Portfolio_projects_credentials/blob/master/Projects/Predicting%20Car%20Prices%20-%20KNN%20Regressor/Predicting%20car%20prices%20KNNRegressor.ipynb) In this project we explore the k-nearest neighbors algorithm find optima hyperparameters and predict car prices.
-__Skills: Pandas, Numpy, KNNRegressor, Hyperparameter__
+[__Predicting Car Prices__](https://nbviewer.jupyter.org/github/NielsKlaver/Portfolio_projects_credentials/blob/master/Projects/Predicting%20Car%20Prices%20-%20KNN%20Regressor/Predicting%20car%20prices%20KNNRegressor.ipynb) In this project we explore the k-nearest neighbors algorithm find optimal hyperparameters using grid search and predict car prices.
+__Skills: Pandas, Numpy, KNNRegressor__
 
 ### Data Cleaning
 
