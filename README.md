@@ -36,7 +36,7 @@ __Skills: Object Oriented Programming, Algorithms__
 [__Music Store Business Questions__](https://nbviewer.jupyter.org/github/NielsKlaver/Portfolio_projects_credentials/blob/master/Projects/Answering%20Music%20Store%20%20Business%20Questions%20using%20SQL/Answering%20Business%20Questions%20with%20SQL.ipynb?flush_cache=true) In this project I try to find new opportunities for our online music store. I use advanced SQL joins and filters to answer these.<br>
 __Skills: SQL, Data Analysis__
 
-[__Analyzing CIA Factbook Data__](https://github.com/NielsKlaver/Portfolio_projects_credentials/blob/master/Projects/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL/%20Analyzing%20CIA%20Factbook%20Data%20Using%20Python%20%2B%20SQL.ipynb) In this project I connect to a SQL database and run SQL Queries to analyze the data.<br>__Skills: SQL, Data Analysis__
+[__Analyzing CIA Factbook Data__](https://github.com/NielsKlaver/Portfolio_projects_credentials/blob/master/Projects/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL/Analyzing%20CIA%20Factbook%20Data%20Using%20Python%20and%20SQL.ipynb) In this project I connect to a SQL database and run SQL Queries to analyze the data.<br>__Skills: SQL, Data Analysis__
 
 
 
