@@ -20,7 +20,7 @@ All projects will be presented in Jupiter notebook format.
 [__Predicting Car Prices__](https://nbviewer.jupyter.org/github/NielsKlaver/Portfolio_projects_credentials/blob/master/Projects/Predicting%20Car%20Prices%20-%20KNN%20Regressor/Predicting%20car%20prices%20KNNRegressor.ipynb?flush_cache=true) In this project I explore the k-nearest neighbors algorithm find optimal hyperparameters using grid search and predict car prices.
 __Skills: Pandas, Numpy, KNNRegressor__
 
-[__Predicting House Prices__](https://nbviewer.jupyter.org/github/NielsKlaver/Portfolio_projects_credentials/blob/master/Projects/Predicting%20House%20Prices%20with%20Linear%20Regression/Predicting%20house%20prices%20LR%20and%20RF.ipynb). In this project i created a pipeline to clean a dataframe, select features and train a simple linear regression model.The linear model will be compared to a RandomForest.,b.
+[__Predicting House Prices__](https://nbviewer.jupyter.org/github/NielsKlaver/Portfolio_projects_credentials/blob/master/Projects/Predicting%20House%20Prices%20with%20Linear%20Regression/Predicting%20house%20prices%20LR%20and%20RF.ipynb). In this project i created a pipeline to clean a dataframe, select features and train a simple linear regression model.The linear model will be compared to a RandomForest.<br>
 __Skills: Linear Regression, RandomForestRegression, Pipeline__
 
 ### Data Cleaning
